@@ -1,0 +1,5 @@
+mario's code
+1- Prompt user for a number.
+2- Compare number with parameters.
+3- if true, print.
+ - if false, re-prompt.
